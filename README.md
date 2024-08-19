@@ -25,7 +25,7 @@ To use this project, follow these steps:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/arorasanchit/Web Calculator.git
+    git clone https://github.com/arorasanchit/Web-Calculator.git
     ```
 
 
